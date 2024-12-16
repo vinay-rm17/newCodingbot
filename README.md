@@ -1,2 +1,2 @@
 # newCodingbot
-new repo
+learning github
